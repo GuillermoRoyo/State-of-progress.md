@@ -3,7 +3,7 @@ Table of contents to control the progress of projects.
 ### Progress by project
 | Parent Project | Project | Objective of the project | Description | Graphics Implementation | Check Code | Final revision 
 |----|----|----|----|----|----|----|
-|**EDA**| [1 Statistical analysis Unidimensional] |Graphical and numerical statistical analysis of the variables|:black_circle:|:black_circle:|:black_circle:|:black_circle:|
+|**EDA**| [1 Statistical analysis Unidimensional] |Graphical and numerical statistical analysis of the variables|:heavy_check_mark:|:heavy_check_mark:|:black_circle:|:black_circle:|
 |**EDA**| [1.1 Normality Study]  |Normality|:black_circle:|:black_circle:|:heavy_check_mark:|:black_circle:|
 |**EDA**| [1.2 Multimodality Study] |Multimodality|:black_circle:|:black_circle:|:black_circle:|:black_circle:|
 |**EDA**| [1.3 Asymmetry and Kurtosis Study] |Asymmetry and Kurtosis|:black_circle:|:black_circle:|:black_circle:|:black_circle:|
